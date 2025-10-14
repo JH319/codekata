@@ -9,8 +9,8 @@
 
 package day1;
 
-class Solution {
-    public int solution(int num1, int num2) {
+class No1 {
+    public int No1(int num1, int num2) {
         return num1 - num2;
     }
 }
