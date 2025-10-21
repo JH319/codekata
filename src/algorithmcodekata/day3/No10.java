@@ -8,7 +8,7 @@
 // 1 ≤ numbers의 길이 ≤ 100
 // 정답의 소수 부분이 .0 또는 .5인 경우만 입력으로 주어집니다.
 
-package day3;
+package algorithmcodekata.day3;
 
 public class No10 {
         public double No10(int[] numbers) {

@@ -6,7 +6,7 @@
 // 제한 조건
 // n은 10,000,000,000이하인 자연수입니다.
 
-package day7;
+package algorithmcodekata.day7;
 
 public class No17 {
     public int[] No17(long n) {

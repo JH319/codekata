@@ -7,7 +7,7 @@
 // num은 int 범위의 정수입니다.
 // 0은 짝수입니다.
 
-package day4;
+package algorithmcodekata.day4;
 
 public class No11 {
     public String No11(int num) {

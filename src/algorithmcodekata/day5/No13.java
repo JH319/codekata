@@ -7,7 +7,7 @@
 // 제한사항
 // N의 범위 : 100,000,000 이하의 자연수
 
-package day5;
+package algorithmcodekata.day5;
 
 public class No13 {
     public int No13(int n) {

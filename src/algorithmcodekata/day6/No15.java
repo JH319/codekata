@@ -6,7 +6,7 @@
 // 제한사항
 // 3 ≤ n ≤ 1,000,000
 
-package day6;
+package algorithmcodekata.day6;
 
 public class No15 {
     public int No15(int n) {

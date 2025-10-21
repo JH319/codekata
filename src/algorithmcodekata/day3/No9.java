@@ -1,4 +1,4 @@
-package day3;
+package algorithmcodekata.day3;
 
 public class No9 {
     public int No9(int n) {

@@ -11,7 +11,7 @@
 // 제한사항
 // 0 < angle ≤ 180
 // angle은 정수입니다.
-package day2;
+package algorithmcodekata.day2;
 
 public class No8 {
     public int No8(int angle) {

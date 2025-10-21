@@ -6,7 +6,7 @@
 // 제한 사항
 // n은 0 이상 3000이하인 정수입니다.
 
-package day6;
+package algorithmcodekata.day6;
 
 public class No14 {
     public int No14(int n) {

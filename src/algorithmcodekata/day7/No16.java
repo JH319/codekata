@@ -7,7 +7,7 @@
 // x는 -10000000 이상, 10000000 이하인 정수입니다.
 // n은 1000 이하인 자연수입니다.
 
-package day7;
+package algorithmcodekata.day7;
 
 public class No16 {
     public long[] No16(int x, int n) {

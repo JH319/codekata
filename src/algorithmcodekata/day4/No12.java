@@ -7,7 +7,7 @@
 // arr은 길이 1 이상, 100 이하인 배열입니다.
 // arr의 원소는 -10,000 이상 10,000 이하인 정수입니다.
 
-package day4;
+package algorithmcodekata.day4;
 
 public class No12 {
     public double solution(int[] arr) {

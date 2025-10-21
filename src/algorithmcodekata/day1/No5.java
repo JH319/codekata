@@ -7,7 +7,7 @@
 // 0 ≤ num1 ≤ 10,000
 // 0 ≤ num2 ≤ 10,000
 
-package day1;
+package algorithmcodekata.day1;
 
 // 내 풀이
 //public class No5 {

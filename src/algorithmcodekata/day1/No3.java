@@ -7,7 +7,7 @@
 // 0 < num1 ≤ 100
 // 0 < num2 ≤ 100
 
-package day1;
+package algorithmcodekata.day1;
 
 public class No3 {
     public int No3(int num1, int num2) {

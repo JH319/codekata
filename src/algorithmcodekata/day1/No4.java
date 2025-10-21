@@ -8,7 +8,7 @@
 // 0 < age ≤ 120
 // 나이는 태어난 연도에 1살이며 매년 1월 1일마다 1살씩 증가합니다.
 
-package day1;
+package algorithmcodekata.day1;
 
 public class No4 {
     public int No4(int age) {
